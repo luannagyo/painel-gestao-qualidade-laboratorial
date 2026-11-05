@@ -1,0 +1,175 @@
+﻿id_ocorrencia,id_amostra,id_motivo,data_registro_nc,data_conclusao_acao,dias_resolucao,sla_permitido_dias,status_plano_acao,investigador_responsavel
+NC-1001,AMO-00041,TAT02,2026-10-15 18:19:41,2026-10-17 03:55:41,1.4,5,Concluída no Prazo,Comitê da Qualidade
+NC-1002,AMO-00045,TAT05,2026-10-30 20:14:28,2026-10-31 15:26:28,0.8,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1003,AMO-00056,ERR01,2026-10-29 15:48:39,2026-10-30 13:24:39,0.9,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1004,AMO-00073,TAT03,2026-09-18 16:15:53,2026-09-19 04:15:53,0.5,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1005,AMO-00076,REC06,2026-11-01 14:51:16,2026-11-07 07:39:16,5.7,3,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1006,AMO-00083,TAT04,2026-10-03 08:14:40,2026-10-04 08:14:40,1.0,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1007,AMO-00086,ERR04,2026-09-12 08:47:12,2026-09-12 18:23:12,0.4,1,Concluída no Prazo,Supervisora Técnica
+NC-1008,AMO-00132,ERR01,2026-10-11 06:16:44,2026-10-13 01:28:44,1.8,1,Concluída com Atraso,Supervisora Técnica
+NC-1009,AMO-00154,ERR03,2026-08-19 02:35:53,2026-08-19 19:23:53,0.7,1,Concluída no Prazo,Supervisora Técnica
+NC-1010,AMO-00178,TAT05,2026-09-21 21:29:19,2026-09-22 16:41:19,0.8,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1011,AMO-00196,REC03,2026-11-04 07:40:19,2026-11-05 07:40:19,1.0,1,Concluída no Prazo,Supervisora Técnica
+NC-1012,AMO-00199,TAT05,2026-10-31 17:21:20,,5.1,1,Em Investigação / Aberta,Comitê da Qualidade
+NC-1013,AMO-00202,TAT04,2026-09-08 12:29:12,2026-09-09 02:53:12,0.6,1,Concluída no Prazo,Comitê da Qualidade
+NC-1014,AMO-00210,REC04,2026-10-14 20:56:39,2026-10-16 16:08:39,1.8,2,Concluída no Prazo,Comitê da Qualidade
+NC-1015,AMO-00215,REC02,2026-10-23 11:43:05,2026-10-25 18:55:05,2.3,1,Concluída com Atraso,Supervisora Técnica
+NC-1016,AMO-00277,TAT01,2026-09-15 14:38:55,2026-09-16 21:50:55,1.3,2,Concluída no Prazo,Comitê da Qualidade
+NC-1017,AMO-00298,TAT04,2026-10-12 20:45:07,2026-10-13 13:33:07,0.7,1,Concluída no Prazo,Supervisora Técnica
+NC-1018,AMO-00310,TAT05,2026-10-16 23:36:02,,19.8,1,Em Investigação / Aberta,Comitê da Qualidade
+NC-1019,AMO-00330,REC06,2026-09-05 05:47:07,2026-09-05 17:47:07,0.5,3,Concluída no Prazo,Supervisora Técnica
+NC-1020,AMO-00332,TAT04,2026-09-14 22:04:44,2026-09-15 10:04:44,0.5,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1021,AMO-00339,TAT04,2026-09-22 22:25:26,2026-09-24 12:49:26,1.6,1,Concluída com Atraso,Comitê da Qualidade
+NC-1022,AMO-00350,ERR04,2026-08-11 07:52:35,2026-08-12 00:40:35,0.7,1,Concluída no Prazo,Comitê da Qualidade
+NC-1023,AMO-00353,REC07,2026-09-01 02:22:35,2026-09-01 14:22:35,0.5,1,Concluída no Prazo,Supervisora Técnica
+NC-1024,AMO-00362,ERR04,2026-10-06 09:33:55,2026-10-07 07:09:55,0.9,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1025,AMO-00381,TAT05,2026-08-21 15:55:28,2026-08-22 13:31:28,0.9,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1026,AMO-00385,TAT05,2026-10-03 16:02:46,2026-10-03 23:14:46,0.3,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1027,AMO-00387,TAT04,2026-08-12 09:22:41,2026-08-13 02:10:41,0.7,1,Concluída no Prazo,Comitê da Qualidade
+NC-1028,AMO-00391,TAT05,2026-08-11 21:14:23,2026-08-12 18:50:23,0.9,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1029,AMO-00423,REC01,2026-11-01 01:21:55,2026-11-02 01:21:55,1.0,1,Concluída no Prazo,Comitê da Qualidade
+NC-1030,AMO-00426,REC03,2026-10-16 16:29:39,2026-10-17 14:05:39,0.9,1,Concluída no Prazo,Supervisora Técnica
+NC-1031,AMO-00431,ERR04,2026-10-14 04:31:25,2026-10-14 21:19:25,0.7,1,Concluída no Prazo,Comitê da Qualidade
+NC-1032,AMO-00441,TAT04,2026-09-20 08:45:20,2026-09-21 01:33:20,0.7,1,Concluída no Prazo,Comitê da Qualidade
+NC-1033,AMO-00443,TAT04,2026-10-03 00:07:07,2026-10-04 16:55:07,1.7,1,Concluída com Atraso,Supervisora Técnica
+NC-1034,AMO-00453,ERR04,2026-08-31 05:54:56,2026-08-31 13:06:56,0.3,1,Concluída no Prazo,Supervisora Técnica
+NC-1035,AMO-00458,ERR03,2026-09-06 04:38:25,2026-09-06 11:50:25,0.3,1,Concluída no Prazo,Supervisora Técnica
+NC-1036,AMO-00482,TAT03,2026-10-26 10:10:28,2026-10-26 19:46:28,0.4,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1037,AMO-00483,ERR04,2026-09-21 07:25:07,2026-09-22 00:13:07,0.7,1,Concluída no Prazo,Supervisora Técnica
+NC-1038,AMO-00511,REC03,2026-10-30 19:29:54,2026-10-31 05:05:54,0.4,1,Concluída no Prazo,Supervisora Técnica
+NC-1039,AMO-00608,REC03,2026-10-04 00:11:43,2026-10-04 16:59:43,0.7,1,Concluída no Prazo,Comitê da Qualidade
+NC-1040,AMO-00615,TAT05,2026-10-06 10:35:38,2026-10-07 05:47:38,0.8,1,Concluída no Prazo,Comitê da Qualidade
+NC-1041,AMO-00619,ERR04,2026-09-03 11:14:59,2026-09-04 01:38:59,0.6,1,Concluída no Prazo,Supervisora Técnica
+NC-1042,AMO-00647,TAT01,2026-09-15 09:45:20,,51.4,2,Em Investigação / Aberta,Supervisora Técnica
+NC-1043,AMO-00669,REC02,2026-11-04 17:30:00,2026-11-08 05:30:00,3.5,1,Concluída com Atraso,Supervisora Técnica
+NC-1044,AMO-00671,REC03,2026-10-05 08:09:54,2026-10-07 17:45:54,2.4,1,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1045,AMO-00700,REC06,2026-08-27 05:55:54,2026-08-27 20:19:54,0.6,3,Concluída no Prazo,Supervisora Técnica
+NC-1046,AMO-00729,ERR04,2026-10-23 18:13:43,2026-10-24 11:01:43,0.7,1,Concluída no Prazo,Comitê da Qualidade
+NC-1047,AMO-00736,TAT01,2026-08-10 14:51:12,2026-08-12 02:51:12,1.5,2,Concluída no Prazo,Supervisora Técnica
+NC-1048,AMO-00742,REC06,2026-10-03 16:38:34,2026-10-04 07:02:34,0.6,3,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1049,AMO-00764,REC03,2026-09-23 06:18:44,2026-09-26 15:54:44,3.4,1,Concluída com Atraso,Comitê da Qualidade
+NC-1050,AMO-00765,REC03,2026-08-09 18:53:12,2026-08-10 04:29:12,0.4,1,Concluída no Prazo,Comitê da Qualidade
+NC-1051,AMO-00783,REC03,2026-09-09 02:37:05,2026-09-09 12:13:05,0.4,1,Concluída no Prazo,Comitê da Qualidade
+NC-1052,AMO-00805,TAT05,2026-09-09 03:28:48,2026-09-09 15:28:48,0.5,1,Concluída no Prazo,Supervisora Técnica
+NC-1053,AMO-00821,REC06,2026-08-21 03:05:49,2026-08-26 15:05:49,5.5,3,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1054,AMO-00833,TAT01,2026-08-13 04:45:22,2026-08-13 16:45:22,0.5,2,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1055,AMO-00837,TAT04,2026-10-14 07:44:50,,22.5,1,Em Investigação / Aberta,Luanna Oliveira (Biomédica)
+NC-1056,AMO-00864,REC03,2026-09-18 22:36:38,2026-09-19 15:24:38,0.7,1,Concluída no Prazo,Comitê da Qualidade
+NC-1057,AMO-00905,REC07,2026-11-02 03:04:58,2026-11-02 19:52:58,0.7,1,Concluída no Prazo,Supervisora Técnica
+NC-1058,AMO-00909,REC02,2026-10-09 19:13:44,2026-10-10 02:25:44,0.3,1,Concluída no Prazo,Comitê da Qualidade
+NC-1059,AMO-00927,REC05,2026-08-19 12:01:58,2026-08-20 02:25:58,0.6,2,Concluída no Prazo,Comitê da Qualidade
+NC-1060,AMO-00940,REC02,2026-09-04 16:30:57,2026-09-05 06:54:57,0.6,1,Concluída no Prazo,Comitê da Qualidade
+NC-1061,AMO-00943,ERR04,2026-10-18 14:25:00,2026-10-19 12:01:00,0.9,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1062,AMO-00950,ERR01,2026-08-19 05:16:50,2026-08-21 17:16:50,2.5,1,Concluída com Atraso,Supervisora Técnica
+NC-1063,AMO-00975,TAT03,2026-10-01 12:33:00,2026-10-02 00:33:00,0.5,1,Concluída no Prazo,Comitê da Qualidade
+NC-1064,AMO-00989,REC01,2026-09-30 02:24:56,2026-09-30 12:00:56,0.4,1,Concluída no Prazo,Comitê da Qualidade
+NC-1065,AMO-00999,REC06,2026-09-22 13:49:58,2026-09-24 01:49:58,1.5,3,Concluída no Prazo,Supervisora Técnica
+NC-1066,AMO-01034,REC07,2026-09-12 14:37:25,2026-09-15 14:37:25,3.0,1,Concluída com Atraso,Supervisora Técnica
+NC-1067,AMO-01035,ERR04,2026-09-08 03:35:38,2026-09-08 17:59:38,0.6,1,Concluída no Prazo,Comitê da Qualidade
+NC-1068,AMO-01043,ERR04,2026-10-24 19:29:03,2026-10-25 02:41:03,0.3,1,Concluída no Prazo,Comitê da Qualidade
+NC-1069,AMO-01055,REC03,2026-09-04 13:40:50,2026-09-05 01:40:50,0.5,1,Concluída no Prazo,Supervisora Técnica
+NC-1070,AMO-01063,TAT04,2026-08-15 17:26:17,2026-08-16 15:02:17,0.9,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1071,AMO-01079,TAT03,2026-08-18 23:15:03,2026-08-19 18:27:03,0.8,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1072,AMO-01080,REC03,2026-09-20 15:58:31,2026-09-21 11:10:31,0.8,1,Concluída no Prazo,Comitê da Qualidade
+NC-1073,AMO-01086,REC04,2026-10-30 19:37:46,,6.0,2,Em Investigação / Aberta,Comitê da Qualidade
+NC-1074,AMO-01092,ERR04,2026-09-03 18:32:55,2026-09-07 16:08:55,3.9,1,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1075,AMO-01140,TAT01,2026-09-09 01:10:02,2026-09-10 08:22:02,1.3,2,Concluída no Prazo,Comitê da Qualidade
+NC-1076,AMO-01162,REC06,2026-09-30 22:11:44,2026-10-01 14:59:44,0.7,3,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1077,AMO-01182,TAT05,2026-09-29 09:46:30,2026-09-29 16:58:30,0.3,1,Concluída no Prazo,Supervisora Técnica
+NC-1078,AMO-01254,TAT02,2026-10-06 23:56:21,2026-10-07 21:32:21,0.9,5,Concluída no Prazo,Comitê da Qualidade
+NC-1079,AMO-01261,ERR02,2026-08-25 07:43:41,2026-08-25 22:07:41,0.6,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1080,AMO-01264,REC01,2026-10-22 09:14:58,2026-10-22 21:14:58,0.5,1,Concluída no Prazo,Comitê da Qualidade
+NC-1081,AMO-01267,REC07,2026-09-29 07:47:49,2026-09-30 07:47:49,1.0,1,Concluída no Prazo,Supervisora Técnica
+NC-1082,AMO-01274,ERR04,2026-09-24 12:54:01,2026-09-25 10:30:01,0.9,1,Concluída no Prazo,Supervisora Técnica
+NC-1083,AMO-01275,TAT03,2026-08-11 15:00:17,2026-08-12 12:36:17,0.9,1,Concluída no Prazo,Comitê da Qualidade
+NC-1084,AMO-01277,TAT05,2026-11-05 15:31:58,2026-11-06 13:07:58,0.9,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1085,AMO-01280,ERR01,2026-10-28 04:17:02,2026-10-28 21:05:02,0.7,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1086,AMO-01286,TAT05,2026-11-05 22:42:10,2026-11-06 05:54:10,0.3,1,Concluída no Prazo,Supervisora Técnica
+NC-1087,AMO-01292,REC03,2026-09-10 16:35:48,2026-09-11 14:11:48,0.9,1,Concluída no Prazo,Comitê da Qualidade
+NC-1088,AMO-01341,ERR01,2026-09-05 06:20:21,2026-09-05 18:20:21,0.5,1,Concluída no Prazo,Comitê da Qualidade
+NC-1089,AMO-01399,TAT05,2026-10-20 10:48:19,2026-10-21 08:24:19,0.9,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1090,AMO-01400,REC03,2026-09-06 06:58:29,2026-09-06 16:34:29,0.4,1,Concluída no Prazo,Comitê da Qualidade
+NC-1091,AMO-01403,ERR03,2026-09-26 00:11:46,2026-09-27 00:11:46,1.0,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1092,AMO-01417,ERR04,2026-10-18 21:38:04,2026-10-19 21:38:04,1.0,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1093,AMO-01437,REC06,2026-09-08 01:17:05,2026-09-13 01:17:05,5.0,3,Concluída com Atraso,Comitê da Qualidade
+NC-1094,AMO-01467,TAT04,2026-10-22 21:04:33,2026-10-26 16:16:33,3.8,1,Concluída com Atraso,Supervisora Técnica
+NC-1095,AMO-01479,REC03,2026-10-09 15:43:28,2026-10-10 06:07:28,0.6,1,Concluída no Prazo,Comitê da Qualidade
+NC-1096,AMO-01523,TAT05,2026-11-02 23:15:54,2026-11-03 20:51:54,0.9,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1097,AMO-01528,REC03,2026-11-02 04:22:20,2026-11-03 04:22:20,1.0,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1098,AMO-01552,TAT05,2026-10-28 20:02:41,2026-10-29 15:14:41,0.8,1,Concluída no Prazo,Comitê da Qualidade
+NC-1099,AMO-01556,REC06,2026-09-15 08:00:06,2026-09-21 05:36:06,5.9,3,Concluída com Atraso,Comitê da Qualidade
+NC-1100,AMO-01559,REC03,2026-08-18 21:29:51,2026-08-19 07:05:51,0.4,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1101,AMO-01563,REC03,2026-09-24 01:29:48,2026-09-24 23:05:48,0.9,1,Concluída no Prazo,Supervisora Técnica
+NC-1102,AMO-01567,ERR04,2026-08-30 11:40:07,2026-08-31 06:52:07,0.8,1,Concluída no Prazo,Supervisora Técnica
+NC-1103,AMO-01579,ERR03,2026-08-11 02:11:04,2026-08-11 16:35:04,0.6,1,Concluída no Prazo,Supervisora Técnica
+NC-1104,AMO-01584,TAT05,2026-10-26 21:47:24,2026-10-30 16:59:24,3.8,1,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1105,AMO-01597,TAT05,2026-11-03 15:42:33,2026-11-04 13:18:33,0.9,1,Concluída no Prazo,Comitê da Qualidade
+NC-1106,AMO-01610,REC03,2026-10-02 14:15:36,2026-10-03 02:15:36,0.5,1,Concluída no Prazo,Comitê da Qualidade
+NC-1107,AMO-01620,REC06,2026-09-21 03:30:24,2026-09-22 13:06:24,1.4,3,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1108,AMO-01621,TAT04,2026-10-02 11:47:51,,34.3,1,Em Investigação / Aberta,Supervisora Técnica
+NC-1109,AMO-01634,TAT01,2026-10-03 02:38:36,2026-10-03 09:50:36,0.3,2,Concluída no Prazo,Comitê da Qualidade
+NC-1110,AMO-01669,REC06,2026-08-29 12:36:11,2026-08-31 12:36:11,2.0,3,Concluída no Prazo,Supervisora Técnica
+NC-1111,AMO-01676,REC03,2026-08-26 17:11:08,2026-08-27 07:35:08,0.6,1,Concluída no Prazo,Comitê da Qualidade
+NC-1112,AMO-01698,ERR03,2026-10-04 19:08:51,2026-10-05 07:08:51,0.5,1,Concluída no Prazo,Supervisora Técnica
+NC-1113,AMO-01717,REC03,2026-08-25 05:07:15,2026-08-27 00:19:15,1.8,1,Concluída com Atraso,Comitê da Qualidade
+NC-1114,AMO-01720,ERR03,2026-11-01 07:04:52,2026-11-01 21:28:52,0.6,1,Concluída no Prazo,Supervisora Técnica
+NC-1115,AMO-01742,REC03,2026-11-04 14:21:40,2026-11-08 04:45:40,3.6,1,Concluída com Atraso,Comitê da Qualidade
+NC-1116,AMO-01760,TAT03,2026-08-14 19:15:11,2026-08-17 07:15:11,2.5,1,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1117,AMO-01794,TAT04,2026-10-17 06:01:29,2026-10-17 15:37:29,0.4,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1118,AMO-01796,REC03,2026-09-08 09:29:26,2026-09-08 21:29:26,0.5,1,Concluída no Prazo,Comitê da Qualidade
+NC-1119,AMO-01814,ERR01,2026-10-31 10:16:32,2026-10-31 19:52:32,0.4,1,Concluída no Prazo,Comitê da Qualidade
+NC-1120,AMO-01825,REC06,2026-11-04 22:47:52,2026-11-06 08:23:52,1.4,3,Concluída no Prazo,Supervisora Técnica
+NC-1121,AMO-01855,TAT04,2026-09-13 16:40:29,2026-09-14 14:16:29,0.9,1,Concluída no Prazo,Supervisora Técnica
+NC-1122,AMO-01880,REC03,2026-08-18 07:18:08,2026-08-20 12:06:08,2.2,1,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1123,AMO-01886,TAT01,2026-10-15 02:27:24,2026-10-15 21:39:24,0.8,2,Concluída no Prazo,Comitê da Qualidade
+NC-1124,AMO-01914,TAT05,2026-10-29 17:28:42,2026-10-30 10:16:42,0.7,1,Concluída no Prazo,Supervisora Técnica
+NC-1125,AMO-01915,TAT04,2026-09-01 03:11:23,2026-09-01 17:35:23,0.6,1,Concluída no Prazo,Supervisora Técnica
+NC-1126,AMO-01917,TAT02,2026-10-11 09:44:55,2026-10-17 09:44:55,6.0,5,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1127,AMO-01948,TAT04,2026-10-13 09:51:24,2026-10-14 00:15:24,0.6,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1128,AMO-01955,REC06,2026-08-13 13:44:58,2026-08-14 18:32:58,1.2,3,Concluída no Prazo,Comitê da Qualidade
+NC-1129,AMO-01956,REC02,2026-09-15 22:38:32,2026-09-16 20:14:32,0.9,1,Concluída no Prazo,Supervisora Técnica
+NC-1130,AMO-01957,REC03,2026-11-04 15:01:15,2026-11-05 05:25:15,0.6,1,Concluída no Prazo,Supervisora Técnica
+NC-1131,AMO-01961,TAT05,2026-08-26 09:10:44,2026-08-28 06:46:44,1.9,1,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1132,AMO-01974,REC03,2026-08-22 05:45:52,2026-08-22 17:45:52,0.5,1,Concluída no Prazo,Comitê da Qualidade
+NC-1133,AMO-01978,REC03,2026-08-25 12:56:04,2026-08-26 00:56:04,0.5,1,Concluída no Prazo,Comitê da Qualidade
+NC-1134,AMO-01999,TAT03,2026-08-24 12:55:08,2026-08-26 17:43:08,2.2,1,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1135,AMO-02000,TAT01,2026-10-31 18:45:07,2026-11-01 16:21:07,0.9,2,Concluída no Prazo,Comitê da Qualidade
+NC-1136,AMO-02011,REC02,2026-10-09 21:23:23,2026-10-10 06:59:23,0.4,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1137,AMO-02052,REC03,2026-08-13 18:48:04,2026-08-14 09:12:04,0.6,1,Concluída no Prazo,Supervisora Técnica
+NC-1138,AMO-02061,REC02,2026-08-28 13:34:30,2026-08-28 20:46:30,0.3,1,Concluída no Prazo,Supervisora Técnica
+NC-1139,AMO-02062,TAT05,2026-10-02 07:08:17,2026-10-02 16:44:17,0.4,1,Concluída no Prazo,Supervisora Técnica
+NC-1140,AMO-02075,REC04,2026-08-17 10:39:42,2026-08-18 13:03:42,1.1,2,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1141,AMO-02083,TAT01,2026-11-01 04:39:57,2026-11-02 11:51:57,1.3,2,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1142,AMO-02124,REC01,2026-10-12 06:10:37,2026-10-13 03:46:37,0.9,1,Concluída no Prazo,Comitê da Qualidade
+NC-1143,AMO-02134,REC06,2026-10-02 12:14:55,2026-10-04 14:38:55,2.1,3,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1144,AMO-02141,REC01,2026-09-24 16:50:17,2026-09-25 07:14:17,0.6,1,Concluída no Prazo,Supervisora Técnica
+NC-1145,AMO-02146,REC03,2026-08-26 17:12:04,2026-08-28 12:24:04,1.8,1,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1146,AMO-02158,REC06,2026-09-11 05:44:56,2026-09-12 12:56:56,1.3,3,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1147,AMO-02173,TAT04,2026-09-25 00:32:11,2026-09-28 22:08:11,3.9,1,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1148,AMO-02174,REC03,2026-10-06 21:40:47,2026-10-07 09:40:47,0.5,1,Concluída no Prazo,Comitê da Qualidade
+NC-1149,AMO-02177,TAT04,2026-09-02 04:42:19,2026-09-02 23:54:19,0.8,1,Concluída no Prazo,Supervisora Técnica
+NC-1150,AMO-02185,ERR01,2026-08-15 08:27:17,2026-08-17 08:27:17,2.0,1,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1151,AMO-02195,TAT03,2026-09-26 05:13:40,2026-09-27 00:25:40,0.8,1,Concluída no Prazo,Supervisora Técnica
+NC-1152,AMO-02207,REC03,2026-09-18 11:48:15,2026-09-19 09:24:15,0.9,1,Concluída no Prazo,Comitê da Qualidade
+NC-1153,AMO-02208,REC07,2026-09-22 22:50:36,2026-09-23 06:02:36,0.3,1,Concluída no Prazo,Comitê da Qualidade
+NC-1154,AMO-02216,REC04,2026-09-11 16:41:44,2026-09-12 04:41:44,0.5,2,Concluída no Prazo,Supervisora Técnica
+NC-1155,AMO-02220,TAT04,2026-09-06 21:49:52,2026-09-07 12:13:52,0.6,1,Concluída no Prazo,Supervisora Técnica
+NC-1156,AMO-02229,REC03,2026-09-05 05:48:25,2026-09-06 05:48:25,1.0,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1157,AMO-02245,TAT04,2026-10-18 21:08:50,2026-10-19 18:44:50,0.9,1,Concluída no Prazo,Comitê da Qualidade
+NC-1158,AMO-02250,TAT04,2026-09-20 03:05:18,,46.7,1,Em Investigação / Aberta,Luanna Oliveira (Biomédica)
+NC-1159,AMO-02264,ERR04,2026-11-05 16:46:47,,0.1,1,Em Investigação / Aberta,Comitê da Qualidade
+NC-1160,AMO-02271,ERR01,2026-11-05 09:48:50,2026-11-06 00:12:50,0.6,1,Concluída no Prazo,Comitê da Qualidade
+NC-1161,AMO-02289,REC02,2026-10-10 08:30:48,2026-10-11 22:54:48,1.6,1,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1162,AMO-02296,REC03,2026-08-10 01:27:20,2026-08-10 20:39:20,0.8,1,Concluída no Prazo,Comitê da Qualidade
+NC-1163,AMO-02316,TAT04,2026-09-06 03:37:06,2026-09-06 18:01:06,0.6,1,Concluída no Prazo,Supervisora Técnica
+NC-1164,AMO-02330,REC01,2026-09-20 02:22:18,2026-09-20 23:58:18,0.9,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1165,AMO-02338,TAT03,2026-09-29 10:37:31,2026-09-29 20:13:31,0.4,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1166,AMO-02344,REC03,2026-11-04 13:35:23,2026-11-06 23:11:23,2.4,1,Concluída com Atraso,Comitê da Qualidade
+NC-1167,AMO-02393,REC07,2026-10-08 14:24:28,2026-10-09 02:24:28,0.5,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1168,AMO-02396,ERR01,2026-08-08 06:33:25,2026-08-09 01:45:25,0.8,1,Concluída no Prazo,Comitê da Qualidade
+NC-1169,AMO-02409,TAT01,2026-10-08 19:20:48,2026-10-10 09:44:48,1.6,2,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1170,AMO-02436,TAT05,2026-10-28 00:00:13,2026-10-30 04:48:13,2.2,1,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1171,AMO-02461,REC03,2026-08-28 04:41:32,2026-08-31 04:41:32,3.0,1,Concluída com Atraso,Luanna Oliveira (Biomédica)
+NC-1172,AMO-02477,TAT03,2026-09-03 16:47:37,,63.1,1,Em Investigação / Aberta,Comitê da Qualidade
+NC-1173,AMO-02479,TAT05,2026-10-25 07:08:20,2026-10-25 16:44:20,0.4,1,Concluída no Prazo,Luanna Oliveira (Biomédica)
+NC-1174,AMO-02480,TAT03,2026-09-17 16:25:50,2026-09-18 09:13:50,0.7,1,Concluída no Prazo,Luanna Oliveira (Biomédica)

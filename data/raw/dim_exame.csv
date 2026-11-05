@@ -1,0 +1,7 @@
+﻿id_exame,nome_exame,setor,tipo_amostra,tat_alvo_horas
+EX01,Urinálise Completa (EAS / Sumário de Urina),Urinálise,Urina Jato Médio,4
+EX02,Urocultura com TSA / Antibiograma,Microbiologia,Urina Estéril,48
+EX03,Parasitológico de Fezes (EPF 3 amostras),Parasitologia,Fezes com Conservante,24
+EX04,Micológico Direto e Cultura de Raspado,Micologia,Escamas de Unha / Pele,360
+EX05,Cultura de Secreção com Antibiograma,Microbiologia,Swab com Meio Stuart,72
+EX06,Hemocultura Automatizada Pareada,Microbiologia,Sangue Total em Frasco Específico,120

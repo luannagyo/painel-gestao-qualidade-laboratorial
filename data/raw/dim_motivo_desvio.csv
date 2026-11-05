@@ -1,0 +1,17 @@
+﻿id_motivo,pilar,setor_alvo,motivo,fase,gravidade,sla_investigacao_dias
+REC01,Recoleta / Rejeição,Urinálise,Amostra Não Vedada / Vazamento,Pré-Analítica,Alta,1
+REC02,Recoleta / Rejeição,Urinálise,Tubo Rachado / Quebrado na Centrifugação,Pré-Analítica,Alta,1
+REC03,Recoleta / Rejeição,Geral / Recepção,Cadastro de Exame Errado,Pré-Analítica,Crítica,1
+REC04,Recoleta / Rejeição,Parasitologia,Conservante Inadequado / Ausente,Pré-Analítica,Média,2
+REC05,Recoleta / Rejeição,Micologia,Volume Insuficiente de Raspado,Pré-Analítica,Média,2
+REC06,Recoleta / Rejeição,Microbiologia,Contaminação da Amostra na Coleta,Pré-Analítica,Alta,3
+REC07,Recoleta / Rejeição,Urinálise,Volume Insuficiente de Urina (<10mL),Pré-Analítica,Média,1
+TAT01,Atraso de Laudo (TAT),Microbiologia,Necessidade de Repique (Cultura Mista),Analítica,Média,2
+TAT02,Atraso de Laudo (TAT),Micologia,Crescimento Fúngico Lento,Analítica,Baixa,5
+TAT03,Atraso de Laudo (TAT),Urinálise,Gargalo de Microscopia / Sedimento Duvidoso,Analítica,Média,1
+TAT04,Atraso de Laudo (TAT),Geral / Bancada,Falha Mecânica de Equipamento,Analítica,Alta,1
+TAT05,Atraso de Laudo (TAT),Supervisão,Retenção de Laudo para Conferência Clínica,Pós-Analítica,Média,1
+ERR01,Resultado Errado / Retificação,Urinálise,Inversão de Tubos na Bancada / Centrífuga,Analítica,Crítica,1
+ERR02,Resultado Errado / Retificação,Parasitologia,Confusão Diagnóstica de Cisto (Comensal vs Patógeno),Analítica,Alta,1
+ERR03,Resultado Errado / Retificação,Microbiologia,Inconsistência de Perfil Fenotípico (Resistência Intrínseca),Pós-Analítica,Crítica,1
+ERR04,Resultado Errado / Retificação,Geral / Bancada,Erro de Digitação / Transcrição no LIS,Pós-Analítica,Alta,1

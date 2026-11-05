@@ -1,0 +1,7 @@
+﻿id_origem,nome_origem,tipo_unidade,cidade
+LOC01,Posto de Coleta Central,Ambulatorial,Sede
+LOC02,Posto de Coleta Shopping,Ambulatorial,Sede
+LOC03,Pronto Atendimento / Emergência (PA),Hospitalar,Sede
+LOC04,Unidade de Terapia Intensiva (UTI Adulto),Hospitalar,Sede
+LOC05,UTI Neonatal e Pediátrica,Hospitalar,Sede
+LOC06,Enfermaria de Internação,Hospitalar,Sede
