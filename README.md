@@ -1,4 +1,4 @@
-# 🧪 Painel de Gestão da Qualidade Laboratorial
+# Painel de Gestão da Qualidade Laboratorial
 
 > Plataforma de Business Intelligence (BI) para controle e redução de Não Conformidades nos setores de **Microbiologia, Urinálise, Parasitologia e Micologia**.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Contexto e Problema de Negócio
+## Contexto e Problema de Negócio
 
 Em laboratórios clínicos e hospitalares, falhas nas fases **Pré-Analítica, Analítica e Pós-Analítica** resultam em:
 - **Recoletas desnecessárias** (desconforto para o paciente, risco biológico e desperdício de insumos);
@@ -20,7 +20,7 @@ Este projeto aplica técnicas de **Engenharia de Dados** e **Business Intelligen
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - [x] Mapear stakeholders e dores da rotina (Microbiologia, Urinálise, Parasitologia, Micologia)
 - [x] Catalogar causas-raiz de recoletas, atrasos e erros de laudo com regras da ANVISA
@@ -30,7 +30,7 @@ Este projeto aplica técnicas de **Engenharia de Dados** e **Business Intelligen
 
 ---
 
-## 👥 Stakeholders
+## Stakeholders
 
 | Nível | Stakeholder | Papel no Projeto |
 | :--- | :--- | :--- |
@@ -41,7 +41,7 @@ Este projeto aplica técnicas de **Engenharia de Dados** e **Business Intelligen
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python (Pandas):** Limpeza, estruturação e geração de dados sintéticos baseados em regras clínicas.
 - **Jupyter Notebook:** Prototipação interativa, exploração e documentação do raciocínio analítico.
@@ -51,18 +51,18 @@ Este projeto aplica técnicas de **Engenharia de Dados** e **Business Intelligen
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
-📁 painel-gestao-qualidade-laboratorial/
+painel-gestao-qualidade-laboratorial/
 │
-├── 📁 docs/                             # Documentação técnica e regras de negócio
+├── docs/                             # Documentação técnica e regras de negócio
 │   └── 01-levantamento-requisitos.md   # Mapeamento completo de stakeholders e dores
 │
-├── 📁 notebooks/                        # Cadernos Jupyter de prototipação e análise
+├── notebooks/                        # Cadernos Jupyter de prototipação e análise
 │   └── 00_levantamento_e_referencias.ipynb # Catálogo de desvios em Python/Pandas
 │
-├── 📁 data/                             # Bases de dados
+├── data/                             # Bases de dados
 │   ├── raw/                            # Dados brutos / sintéticos
 │   └── processed/                      # Dados tratados para o Power BI
 │
@@ -72,20 +72,20 @@ Este projeto aplica técnicas de **Engenharia de Dados** e **Business Intelligen
 
 ---
 
-## 📚 Documentação do Projeto
+## Documentação do Projeto
 
-- 📄 [Levantamento de Requisitos e Matriz de Falhas](docs/01-levantamento-requisitos.md)
-- 📓 [Caderno de Prototipação em Python](notebooks/00_levantamento_e_referencias.ipynb)
+- [Levantamento de Requisitos e Matriz de Falhas](docs/01-levantamento-requisitos.md)
+- [Caderno de Prototipação em Python](notebooks/00_levantamento_e_referencias.ipynb)
 
 ---
 
-## ⚠️ Aviso sobre Dados
+## Aviso sobre Dados
 
 Todos os dados gerados e utilizados neste repositório são **100% sintéticos e simulados**. Nenhuma informação real de pacientes, prontuários ou instituições de saúde é utilizada.
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 
 **Luanna Oliveira**  
 Biomédica & Graduanda em Sistemas de Informação  

@@ -1,0 +1,4 @@
+﻿id_ocorrencia,id_amostra,tipo_desvio,motivo_investigado,sla_dias,dias_para_resolver,responsavel
+NC-001,AMO-0025,Atraso no Laudo (TAT),Amostra Não Vedada / Vazamento,2,0.9,Luanna Oliveira (Biomédica)
+NC-002,AMO-0027,Atraso no Laudo (TAT),Necessidade de Repique (Cultura Mista),2,1.8,Luanna Oliveira (Biomédica)
+NC-003,AMO-0032,Atraso no Laudo (TAT),Amostra Não Vedada / Vazamento,2,0.7,Luanna Oliveira (Biomédica)

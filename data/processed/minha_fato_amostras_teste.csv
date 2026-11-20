@@ -1,0 +1,51 @@
+﻿id_amostra,exame,posto_coleta,data_coleta,data_recebimento,tat_alvo_horas,tat_real_horas,status_amostra,dentro_do_prazo
+AMO-0001,Micologia,Pronto Atendimento,01/11/2026 13:04,01/11/2026 14:13,360,299.3,Conforme,Sim
+AMO-0002,Micologia,Pronto Atendimento,02/11/2026 11:51,02/11/2026 13:16,360,214.0,Conforme,Sim
+AMO-0003,Urina EAS,Posto Central,02/11/2026 01:42,02/11/2026 02:14,4,2.1,Conforme,Sim
+AMO-0004,Parasitológico de Fezes,Posto Shopping,01/11/2026 19:30,01/11/2026 21:00,24,13.7,Conforme,Sim
+AMO-0005,Urocultura,UTI,01/11/2026 18:18,01/11/2026 18:59,48,35.9,Conforme,Sim
+AMO-0006,Micologia,Posto Central,02/11/2026 12:11,02/11/2026 13:09,360,221.0,Conforme,Sim
+AMO-0007,Urina EAS,UTI,03/11/2026 03:28,03/11/2026 04:25,4,3.4,Conforme,Sim
+AMO-0008,Urocultura,Posto Shopping,02/11/2026 00:45,02/11/2026 01:36,48,39.5,Conforme,Sim
+AMO-0009,Urocultura,Pronto Atendimento,02/11/2026 14:28,02/11/2026 15:05,48,33.0,Conforme,Sim
+AMO-0010,Micologia,Posto Shopping,02/11/2026 02:54,02/11/2026 03:34,360,200.5,Conforme,Sim
+AMO-0011,Micologia,Pronto Atendimento,01/11/2026 14:27,01/11/2026 15:39,360,275.2,Conforme,Sim
+AMO-0012,Micologia,Pronto Atendimento,02/11/2026 04:35,02/11/2026 05:36,360,269.4,Conforme,Sim
+AMO-0013,Micologia,Posto Central,01/11/2026 23:40,02/11/2026 00:21,360,290.0,Conforme,Sim
+AMO-0014,Urina EAS,UTI,02/11/2026 22:05,02/11/2026 23:15,4,3.2,Conforme,Sim
+AMO-0015,Parasitológico de Fezes,Pronto Atendimento,01/11/2026 16:48,01/11/2026 17:38,24,20.2,Conforme,Sim
+AMO-0016,Urina EAS,UTI,02/11/2026 03:28,02/11/2026 04:44,4,2.2,Conforme,Sim
+AMO-0017,Micologia,Posto Shopping,02/11/2026 05:38,02/11/2026 06:36,360,206.8,Conforme,Sim
+AMO-0018,Micologia,Posto Shopping,01/11/2026 10:10,01/11/2026 11:25,360,319.8,Conforme,Sim
+AMO-0019,Parasitológico de Fezes,Posto Shopping,01/11/2026 09:20,01/11/2026 10:01,24,20.5,Conforme,Sim
+AMO-0020,Urina EAS,UTI,02/11/2026 18:36,02/11/2026 19:42,4,3.4,Conforme,Sim
+AMO-0021,Urina EAS,Pronto Atendimento,03/11/2026 06:15,03/11/2026 07:01,4,2.1,Conforme,Sim
+AMO-0022,Parasitológico de Fezes,UTI,01/11/2026 19:39,01/11/2026 20:14,24,16.6,Conforme,Sim
+AMO-0023,Micologia,Posto Central,02/11/2026 00:30,02/11/2026 01:11,360,259.5,Conforme,Sim
+AMO-0024,Micologia,UTI,02/11/2026 22:22,02/11/2026 23:31,360,209.1,Conforme,Sim
+AMO-0025,Urina EAS,Posto Central,01/11/2026 09:15,01/11/2026 10:26,4,6.3,Atraso no Laudo (TAT),Não
+AMO-0026,Urina EAS,UTI,02/11/2026 03:12,02/11/2026 04:19,4,3.6,Conforme,Sim
+AMO-0027,Urocultura,UTI,01/11/2026 12:56,01/11/2026 13:54,48,62.9,Atraso no Laudo (TAT),Não
+AMO-0028,Parasitológico de Fezes,UTI,03/11/2026 06:47,03/11/2026 07:26,24,20.7,Conforme,Sim
+AMO-0029,Micologia,Posto Shopping,02/11/2026 18:49,02/11/2026 19:33,360,278.6,Conforme,Sim
+AMO-0030,Parasitológico de Fezes,Pronto Atendimento,02/11/2026 03:52,02/11/2026 04:30,24,16.8,Conforme,Sim
+AMO-0031,Micologia,UTI,02/11/2026 11:51,02/11/2026 12:47,360,226.6,Conforme,Sim
+AMO-0032,Parasitológico de Fezes,UTI,01/11/2026 12:20,01/11/2026 13:34,24,39.8,Atraso no Laudo (TAT),Não
+AMO-0033,Micologia,UTI,01/11/2026 16:50,01/11/2026 17:50,360,289.2,Conforme,Sim
+AMO-0034,Parasitológico de Fezes,Posto Shopping,02/11/2026 19:07,02/11/2026 20:27,24,20.4,Conforme,Sim
+AMO-0035,Micologia,UTI,01/11/2026 08:27,01/11/2026 09:18,360,250.1,Conforme,Sim
+AMO-0036,Urina EAS,Posto Central,03/11/2026 04:15,03/11/2026 04:59,4,2.8,Conforme,Sim
+AMO-0037,Urina EAS,Posto Central,01/11/2026 20:52,01/11/2026 21:34,4,3.5,Conforme,Sim
+AMO-0038,Urocultura,Pronto Atendimento,02/11/2026 17:57,02/11/2026 18:40,48,25.4,Conforme,Sim
+AMO-0039,Parasitológico de Fezes,Pronto Atendimento,02/11/2026 02:17,02/11/2026 03:43,24,14.1,Conforme,Sim
+AMO-0040,Micologia,Posto Central,01/11/2026 23:38,02/11/2026 00:41,360,252.2,Conforme,Sim
+AMO-0041,Micologia,Posto Shopping,02/11/2026 15:53,02/11/2026 16:24,360,302.5,Conforme,Sim
+AMO-0042,Micologia,Pronto Atendimento,02/11/2026 00:06,02/11/2026 01:36,360,268.1,Conforme,Sim
+AMO-0043,Urina EAS,Pronto Atendimento,02/11/2026 15:25,02/11/2026 16:53,4,3.4,Conforme,Sim
+AMO-0044,Urina EAS,UTI,02/11/2026 23:04,02/11/2026 23:45,4,3.1,Conforme,Sim
+AMO-0045,Micologia,Posto Shopping,02/11/2026 12:36,02/11/2026 13:19,360,202.9,Conforme,Sim
+AMO-0046,Urocultura,Posto Central,01/11/2026 15:38,01/11/2026 16:35,48,35.4,Conforme,Sim
+AMO-0047,Urocultura,Pronto Atendimento,01/11/2026 09:58,01/11/2026 10:30,48,38.2,Conforme,Sim
+AMO-0048,Urina EAS,UTI,02/11/2026 19:42,02/11/2026 20:50,4,2.2,Conforme,Sim
+AMO-0049,Urina EAS,Posto Central,02/11/2026 03:34,02/11/2026 04:17,4,3.0,Conforme,Sim
+AMO-0050,Parasitológico de Fezes,Pronto Atendimento,02/11/2026 18:00,02/11/2026 19:26,24,20.7,Conforme,Sim
